@@ -1,0 +1,5 @@
+README
+
+Purpose of the program :
+The purpose of the program is using Adjacency List to link goals in graph, display the adjacent ,
+ and display all depth first. And deallocate all.
